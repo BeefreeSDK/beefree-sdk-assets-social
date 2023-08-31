@@ -1,3 +1,3 @@
-# BEE Plugin Social Icons Sets
+# Beefree SDK Social Icons Sets
 
-This repository includes all the icon sets available in the Social module of BEE Plugin.
+This repository includes all the icon sets available in the Social module of Beefree SDK.
